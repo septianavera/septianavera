@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @septianavera
-- 👀 I’m interested in data analyst
+- 👀 I’m interested in data analyst and business intelligence
 - 🌱 I’m currently learning SQL, Tableau, R and Python
 - 📫 How to reach me septianaverak@gmail.com
 
